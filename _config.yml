@@ -1,0 +1,14 @@
+layout_spectrum: 0.5378968
+typography_spectrum: 0.7103175
+color:
+  saturation: 0.2181465
+  lightness: 0.2901099
+  brandStrength: 0.05463104
+  rhythmicContrast: 0.08460324
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Google Ads
